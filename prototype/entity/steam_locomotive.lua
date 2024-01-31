@@ -8,11 +8,6 @@ custom_smoke.name = "meat:train-smoke"
 custom_smoke.start_scale = 0.2
 custom_smoke.end_scale = 3
 
-if settings.startup["meat:steamtrain-disable"].value then
-	fuel_category = "chemical"
-	fuel_inventory_size = 3
-end
-
 local steam_locomotive = table.deepcopy(data.raw["locomotive"]["locomotive"])
 local custom_properties = {
 	name = "meat:steam-locomotive",
