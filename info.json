@@ -1,0 +1,9 @@
+{
+    "name": "IR3_steam_locomotive",
+    "version": "0.1.0",
+    "title": "IR3 Compatible Steam Locomotive",
+    "author": "Meat",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1.0", "IndustrialRevolution3 >= 3.1.20"],
+    "description": "Adds a steam locomotive which uses IR3 steam cells to run"
+}
