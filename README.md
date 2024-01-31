@@ -1,4 +1,3 @@
-# factorio_steam_locomotive
 IR3 Compatible Steam Locomotive Mod For Factorio
 
 The steam locomotive uses "steam cells" added by IR3, and is unlocked via early game tech. 
